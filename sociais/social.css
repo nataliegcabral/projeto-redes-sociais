@@ -17,7 +17,7 @@ img {
 
 a {
     display: block;
-    background-color: darkred;
+    background-color: rgba(0, 0, 0, 0.116);
     padding: 20px;
     text-align: center;
     text-decoration: none;
